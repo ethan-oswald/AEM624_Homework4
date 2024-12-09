@@ -1,0 +1,3 @@
+Using 2D-irrotational flow approximations, write a Method of Characteristics program to calculate the minimum-length nozzle for exit Mach number = 2.4. Follow the discussions in Chapter 11 of Anderson’s “Modern Compressible Flow” book. This problem’s solution for exit Mach number = 2.4 is given in the book as Example 11.1. 
+Create a figure similar to what is shown in Figure 11.4, and make a Table similar to the Table 11.1. In your homework submission make sure to include your Method of Characteristics program.
+Assume that the incoming flow’s static pressure and temperature are P1 = 1 atm, and T1 = 298.15 K, respectively. Use calorically perfect gas assumption with γ  = 1.4.
